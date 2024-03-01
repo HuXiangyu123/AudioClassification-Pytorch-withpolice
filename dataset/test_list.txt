@@ -1,0 +1,157 @@
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_019out_001.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_020out_005.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_022out_001.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_023out_004.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_025out_001.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_026out_004.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_028out_001.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_029out_004.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_031out_000.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_032out_004.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_034out_000.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_035out_003.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_037out_000.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_038out_003.wav	0
+dataset/audios_784_1_784_0/0/2023-07-07_11-56-12_1_transportmode=unicast_040out_000.wav	0
+dataset/audios_784_1_784_0/0/noiseless_10.wav	0
+dataset/audios_784_1_784_0/0/noise_102.wav	0
+dataset/audios_784_1_784_0/0/noise_112.wav	0
+dataset/audios_784_1_784_0/0/noise_122.wav	0
+dataset/audios_784_1_784_0/0/noise_132.wav	0
+dataset/audios_784_1_784_0/0/noise_142.wav	0
+dataset/audios_784_1_784_0/0/noise_152.wav	0
+dataset/audios_784_1_784_0/0/noise_162.wav	0
+dataset/audios_784_1_784_0/0/noise_172.wav	0
+dataset/audios_784_1_784_0/0/special 120 1.wav	0
+dataset/audios_784_1_784_0/0/special building 18.wav	0
+dataset/audios_784_1_784_0/0/special building 27.wav	0
+dataset/audios_784_1_784_0/0/special building 36.wav	0
+dataset/audios_784_1_784_0/0/special storm 1.wav	0
+dataset/audios_784_1_784_0/0/special storm 19.wav	0
+dataset/audios_784_1_784_0/0/special storm 7.wav	0
+dataset/audios_784_1_784_0/0/tractor+11_out.wav	0
+dataset/audios_784_1_784_0/0/tractor+20_out.wav	0
+dataset/audios_784_1_784_0/0/tractor+6_out.wav	0
+dataset/audios_784_1_784_0/0/truck 321.wav	0
+dataset/audios_784_1_784_0/0/truck 331.wav	0
+dataset/audios_784_1_784_0/0/truck 341.wav	0
+dataset/audios_784_1_784_0/0/truck 351.wav	0
+dataset/audios_784_1_784_0/0/truck 361.wav	0
+dataset/audios_784_1_784_0/0/truck 371.wav	0
+dataset/audios_784_1_784_0/0/truck 381.wav	0
+dataset/audios_784_1_784_0/0/truck 391.wav	0
+dataset/audios_784_1_784_0/0/truck 401.wav	0
+dataset/audios_784_1_784_0/0/truck+10_out.wav	0
+dataset/audios_784_1_784_0/0/truck+11_out.wav	0
+dataset/audios_784_1_784_0/0/truck+129_out.wav	0
+dataset/audios_784_1_784_0/0/truck+138_out.wav	0
+dataset/audios_784_1_784_0/0/truck+147_out.wav	0
+dataset/audios_784_1_784_0/0/truck+156_out.wav	0
+dataset/audios_784_1_784_0/0/truck+165_out.wav	0
+dataset/audios_784_1_784_0/0/truck+174_out.wav	0
+dataset/audios_784_1_784_0/0/truck+183_out.wav	0
+dataset/audios_784_1_784_0/0/truck+193_out.wav	0
+dataset/audios_784_1_784_0/0/truck+201_out.wav	0
+dataset/audios_784_1_784_0/0/truck+210_out.wav	0
+dataset/audios_784_1_784_0/0/truck+21_out.wav	0
+dataset/audios_784_1_784_0/0/truck+229_out.wav	0
+dataset/audios_784_1_784_0/0/truck+238_out.wav	0
+dataset/audios_784_1_784_0/0/truck+247_out.wav	0
+dataset/audios_784_1_784_0/0/truck+256_out.wav	0
+dataset/audios_784_1_784_0/0/truck+265_out.wav	0
+dataset/audios_784_1_784_0/0/truck+34_out.wav	0
+dataset/audios_784_1_784_0/0/truck+43_out.wav	0
+dataset/audios_784_1_784_0/0/truck+52_out.wav	0
+dataset/audios_784_1_784_0/0/truck+61_out.wav	0
+dataset/audios_784_1_784_0/0/truck+71_out.wav	0
+dataset/audios_784_1_784_0/0/truck+82_out.wav	0
+dataset/audios_784_1_784_0/0/truck+91_out.wav	0
+dataset/audios_784_1_784_0/0/trunk 137.wav	0
+dataset/audios_784_1_784_0/0/trunk 147.wav	0
+dataset/audios_784_1_784_0/0/trunk 157.wav	0
+dataset/audios_784_1_784_0/0/trunk 167.wav	0
+dataset/audios_784_1_784_0/0/trunk 177.wav	0
+dataset/audios_784_1_784_0/0/trunk 187.wav	0
+dataset/audios_784_1_784_0/0/trunk 197.wav	0
+dataset/audios_784_1_784_0/0/trunk 207.wav	0
+dataset/audios_784_1_784_0/0/trunk 217.wav	0
+dataset/audios_784_1_784_0/0/whistle 13.wav	0
+dataset/audios_784_1_784_0/0/wind 6.wav	0
+dataset/audios_784_1_784_0/1/106_out.wav	1
+dataset/audios_784_1_784_0/1/116_out.wav	1
+dataset/audios_784_1_784_0/1/125_out.wav	1
+dataset/audios_784_1_784_0/1/134_out.wav	1
+dataset/audios_784_1_784_0/1/143_out.wav	1
+dataset/audios_784_1_784_0/1/152_out.wav	1
+dataset/audios_784_1_784_0/1/161_out.wav	1
+dataset/audios_784_1_784_0/1/170.wav	1
+dataset/audios_784_1_784_0/1/17_out.wav	1
+dataset/audios_784_1_784_0/1/189.wav	1
+dataset/audios_784_1_784_0/1/198.wav	1
+dataset/audios_784_1_784_0/1/206.wav	1
+dataset/audios_784_1_784_0/1/215.wav	1
+dataset/audios_784_1_784_0/1/224.wav	1
+dataset/audios_784_1_784_0/1/233.wav	1
+dataset/audios_784_1_784_0/1/243.wav	1
+dataset/audios_784_1_784_0/1/252.wav	1
+dataset/audios_784_1_784_0/1/261.wav	1
+dataset/audios_784_1_784_0/1/270.wav	1
+dataset/audios_784_1_784_0/1/27_out.wav	1
+dataset/audios_784_1_784_0/1/289.wav	1
+dataset/audios_784_1_784_0/1/298.wav	1
+dataset/audios_784_1_784_0/1/306.wav	1
+dataset/audios_784_1_784_0/1/315.wav	1
+dataset/audios_784_1_784_0/1/324.wav	1
+dataset/audios_784_1_784_0/1/333.wav	1
+dataset/audios_784_1_784_0/1/343.wav	1
+dataset/audios_784_1_784_0/1/352.wav	1
+dataset/audios_784_1_784_0/1/37_out.wav	1
+dataset/audios_784_1_784_0/1/46_out.wav	1
+dataset/audios_784_1_784_0/1/56_out.wav	1
+dataset/audios_784_1_784_0/1/65_out.wav	1
+dataset/audios_784_1_784_0/1/74_out.wav	1
+dataset/audios_784_1_784_0/1/84_out.wav	1
+dataset/audios_784_1_784_0/1/95_out.wav	1
+dataset/audios_784_1_784_0/1/output13.wav	1
+dataset/audios_784_1_784_0/1/output22.wav	1
+dataset/audios_784_1_784_0/1/output31.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231008132450404_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231010225406582_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231012225653865_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231015232612362_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231018142844212_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231021152323577_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231023221854460_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231026055840030_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231028035514507_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231030015729803_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231101002617610_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231102160823593_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231104101343854_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231106160532920_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231108190235625_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231111143820392_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V971_1_20231115103256578_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20230906002239143_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20230907120128291_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20230911001108885_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20230913135002240_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20230916075416340_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20230924084746024_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20230929161459919_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231004223306817_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231010231830835_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231016152248650_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231021233403181_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231024085228878_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231026090301561_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231028140148233_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231031010716472_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231102140448524_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231105202948917_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231108143507642_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231112104255865_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V972_1_20231116130154710_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V974_1_20230915182443807_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V977_1_20230910194054689_1_baofeng.wav	1
+dataset/audios_784_1_784_0/1/O_51010000000002V979_1_20230912174853990_1_baofeng.wav	1

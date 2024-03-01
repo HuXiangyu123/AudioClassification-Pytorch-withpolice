@@ -3,8 +3,5 @@ __pycache__/
 build/
 dist/
 macls.egg-info/
-dataset/
-log/
 output/
-models/
 test.py
